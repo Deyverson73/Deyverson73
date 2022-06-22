@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deyverson73" alt="deyverson73" /></a> </p>
 
-- 🔭 I’m currently working on [@agendakids](https://github.com/agendakids)
+- 🔭 I’m currently working on [@agendakids](https://github.com/agendaedu)
 
 - 👨‍💻 All of my projects are available at [https://deyverson.vercel.app/](https://deyverson.vercel.app/)
 
